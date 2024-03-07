@@ -1,4 +1,4 @@
 function avg(a,b){
 	return (a+b)/2;
-	//wer1
+	//wer3
 }
